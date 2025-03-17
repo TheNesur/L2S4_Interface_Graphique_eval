@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="2">
-  <diagram name="Page-1" id="p0IenRbpLlspK19AUfvY">
-    <mxGraphModel dx="1834" dy="1572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="3">
+  <diagram name="Page d&#39;aceuile" id="p0IenRbpLlspK19AUfvY">
+    <mxGraphModel dx="2312" dy="1829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,9 +283,17 @@
         <mxCell id="jwURgcLQysobbN_eTl6M-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2ibRLMOz9EGu7pOhez--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;L&#39;apparence des boutant changent lorsque le pointeur de la souris frôle&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;elle devient comme le bouton si dessous&amp;nbsp;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A2ibRLMOz9EGu7pOhez--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;L&#39;apparence des boutons changent lorsque le pointeur de la souris frôle&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;elle devient comme le bouton si dessous&amp;nbsp;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-371" y="477" width="344" height="186" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hZxBP4C6ugAEBipO5la0" name="Page-3">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
