@@ -286,7 +286,7 @@
             <mxPoint x="-71" y="-439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jwURgcLQysobbN_eTl6M-46" value="demmare l&#39;evenement suivant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jwURgcLQysobbN_eTl6M-46" value="démarre l&#39;évènement suivant lorsque la souris frôle le nœud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-61" y="-450.5" width="268" height="30" as="geometry" />
         </mxCell>
       </root>
