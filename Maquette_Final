@@ -235,8 +235,11 @@
         <mxCell id="uhar7NgErI7lNg7Yw8cG-27" value="Ferme les boites de dialog" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1055" y="1537" width="244" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wIUFfZNajQ8adN0j-1mS-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+        <mxCell id="wIUFfZNajQ8adN0j-1mS-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry x="477" y="1057.5" width="71" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="jwURgcLQysobbN_eTl6M-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;" vertex="1" parent="1">
+          <mxGeometry x="1091" y="848" width="38.75" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
