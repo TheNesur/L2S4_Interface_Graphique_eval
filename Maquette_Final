@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="3">
   <diagram name="Page d&#39;aceuile" id="p0IenRbpLlspK19AUfvY">
-    <mxGraphModel dx="3006" dy="1988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,12 +317,6 @@
         </mxCell>
         <mxCell id="v04PS8vlsx4S2XQtgaHO-13" value="Musique par défaut" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-341" y="56" width="121" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v04PS8vlsx4S2XQtgaHO-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;" vertex="1" parent="1">
-          <mxGeometry x="984" y="-511.36" width="63" height="66.71" as="geometry" />
-        </mxCell>
-        <mxCell id="v04PS8vlsx4S2XQtgaHO-15" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;rotation=45;size=0.06329600343101892;" vertex="1" parent="1">
-          <mxGeometry x="988" y="-499.36" width="46" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
