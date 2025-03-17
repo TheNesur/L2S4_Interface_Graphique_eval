@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="3">
   <diagram name="Page d&#39;aceuile" id="p0IenRbpLlspK19AUfvY">
-    <mxGraphModel dx="1947" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3407" dy="2204" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,7 +285,7 @@
         <mxCell id="jwURgcLQysobbN_eTl6M-41" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pointer;rotation=-105;" parent="1" vertex="1">
           <mxGeometry x="-113" y="766" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A2ibRLMOz9EGu7pOhez--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;L&#39;apparence des boutons changent lorsque le pointeur de la souris frôle&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;elle devient comme le bouton si dessous&amp;nbsp;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A2ibRLMOz9EGu7pOhez--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;L&#39;apparence des boutons changent lorsque le pointeur de la souris le frôle&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;elle devient comme le bouton si dessous&amp;nbsp;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-371" y="477" width="344" height="186" as="geometry" />
         </mxCell>
         <mxCell id="v04PS8vlsx4S2XQtgaHO-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.03;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.765;exitY=0.826;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jwURgcLQysobbN_eTl6M-35" target="jwURgcLQysobbN_eTl6M-41">
