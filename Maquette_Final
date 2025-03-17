@@ -366,7 +366,7 @@
         <mxCell id="DfojnwsF4QmIqYLLCcl6-21" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Affiche les caractère ou mot incorrect&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-243" y="361" width="330" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="DfojnwsF4QmIqYLLCcl6-22" value="&lt;div&gt;&lt;font style=&quot;font-size: 64px;&quot;&gt;DOMMAGE!!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;LE MOT ETAI&amp;nbsp; ....., ne te decourage pas&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DfojnwsF4QmIqYLLCcl6-22" value="&lt;div&gt;&lt;font style=&quot;font-size: 64px;&quot;&gt;DOMMAGE!!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;LE MOT ETAI&amp;nbsp; ....., NE TE DECOURAGE PAS&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1701" y="568" width="606" height="161" as="geometry" />
         </mxCell>
         <mxCell id="DfojnwsF4QmIqYLLCcl6-23" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Si le joueur perd&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
