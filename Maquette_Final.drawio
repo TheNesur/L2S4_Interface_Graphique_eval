@@ -526,7 +526,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m9tYFwfesri4IwrnQs89-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=#00ff04;fillColor=#2bff00;entryX=0.449;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="m9tYFwfesri4IwrnQs89-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=#00ff04;fillColor=#2bff00;entryX=0.449;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="uD14U2MRbR2ioA_VP2lg-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5030" y="380" as="sourcePoint" />
             <mxPoint x="5281" y="670.5" as="targetPoint" />
@@ -908,7 +908,7 @@
         <mxCell id="6NRpGFYziOR6iTamGluy-9" value="Zone cochable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4904" y="-337" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kHCi-7aTIuOXFsHAtzCy-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=#00ff04;fillColor=#2bff00;" parent="1" edge="1">
+        <mxCell id="kHCi-7aTIuOXFsHAtzCy-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=#00ff04;fillColor=#2bff00;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" edge="1" source="uD14U2MRbR2ioA_VP2lg-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5030" y="240" as="sourcePoint" />
             <mxPoint x="4670" y="910" as="targetPoint" />
