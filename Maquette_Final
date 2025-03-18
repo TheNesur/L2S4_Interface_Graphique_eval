@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="2">
   <diagram name="Page d&#39;aceuile" id="p0IenRbpLlspK19AUfvY">
-    <mxGraphModel dx="3006" dy="1988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,7 +307,7 @@
           <mxGeometry x="-246" y="723.5" width="213" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fwitRlPQpOq8BcwiXoyR-7" value="" style="image;html=1;image=img/lib/clip_art/general/Star_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-238" y="731" width="45" height="41" as="geometry" />
+          <mxGeometry x="-68" y="739.5" width="35" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fwitRlPQpOq8BcwiXoyR-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pointer;rotation=-105;" vertex="1" parent="1">
           <mxGeometry x="-113" y="766" width="30" height="30" as="geometry" />
