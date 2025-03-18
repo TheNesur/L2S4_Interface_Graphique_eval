@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="3">
   <diagram id="7sCuXelu7xK9Szy6CeyV" name="Maquette 1">
-    <mxGraphModel dx="2261" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="2573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
         <mxCell id="DfojnwsF4QmIqYLLCcl6-38" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;Clicker ici pour valider&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;textOpacity=50;" parent="1" vertex="1">
           <mxGeometry x="405" y="-175.5" width="338.5" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="DfojnwsF4QmIqYLLCcl6-39" value="Cliquer pour entrer un caractère" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=25;" parent="1" vertex="1">
+        <mxCell id="DfojnwsF4QmIqYLLCcl6-39" value="Cliquer et entrer un caractère" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="150" y="-175.5" width="241" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="zQtvKkK12jzcs1CsVVGv-1" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;Oh non, la lettre &#39;X&#39; n&#39;est pas dans le mot. Mais ne te décourage pas, tu peux réussir !&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -153,7 +153,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Maquette 2" id="p0IenRbpLlspK19AUfvY">
-    <mxGraphModel dx="3190" dy="3287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5580" dy="4573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
