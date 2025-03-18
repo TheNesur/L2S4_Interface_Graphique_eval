@@ -1095,17 +1095,6 @@
         <mxCell id="GVwZ9VhDK5WkoSvDojCH-154" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Le pendu : Support&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Lucida Console;fontColor=#FFFF00;fontStyle=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="6490" y="1480" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GVwZ9VhDK5WkoSvDojCH-155" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=#00ff04;fillColor=#2bff00;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5003" y="292" as="sourcePoint" />
-            <mxPoint x="5630" y="1460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GVwZ9VhDK5WkoSvDojCH-156" value="Ouvre la fenetre pour contacter le support" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GVwZ9VhDK5WkoSvDojCH-155">
-          <mxGeometry x="0.1425" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GVwZ9VhDK5WkoSvDojCH-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVwZ9VhDK5WkoSvDojCH-158" target="GVwZ9VhDK5WkoSvDojCH-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
