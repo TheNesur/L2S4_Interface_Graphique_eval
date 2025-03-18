@@ -1794,20 +1794,23 @@
         <mxCell id="eyhNmom8YDCfVhaP4GtO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3740" y="921" width="1010" height="799" as="geometry" />
         </mxCell>
-        <mxCell id="eyhNmom8YDCfVhaP4GtO-2" value="&lt;font&gt;Regle du jeu&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=39;" vertex="1" parent="1">
-          <mxGeometry x="4010" y="1060" width="410" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="eyhNmom8YDCfVhaP4GtO-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/h1&gt;&lt;div&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/div&gt;&lt;div&gt;aaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/div&gt;&lt;div&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/div&gt;&lt;div&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/div&gt;&lt;div&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/div&gt;&lt;div&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/div&gt;&lt;div&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/div&gt;&lt;div&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3804.5" y="1168" width="900" height="545" as="geometry" />
         </mxCell>
-        <mxCell id="eyhNmom8YDCfVhaP4GtO-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Retour&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3770" y="949" width="213" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eyhNmom8YDCfVhaP4GtO-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Quitter&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="4025" y="947.25" width="213" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="eyhNmom8YDCfVhaP4GtO-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.address_book_policies;" vertex="1" parent="1">
           <mxGeometry x="4494" y="1440" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="eyhNmom8YDCfVhaP4GtO-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#333333,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="3740" y="919" width="1000" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="eyhNmom8YDCfVhaP4GtO-11" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Retour&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="949" width="213" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyhNmom8YDCfVhaP4GtO-12" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Quitter&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="4025" y="947.25" width="213" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyhNmom8YDCfVhaP4GtO-13" value="&lt;font&gt;Regle du jeu&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=39;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="4270" y="951.75" width="410" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
