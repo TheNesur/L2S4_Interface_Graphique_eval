@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="2">
   <diagram name="Page d&#39;aceuile" id="p0IenRbpLlspK19AUfvY">
-    <mxGraphModel dx="1947" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2712" dy="1829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,9 +80,6 @@
         </mxCell>
         <mxCell id="QkPWphrjwWYuau1M03Vn-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Regle du jeu:&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;aaaaaaaaaaaaaaaaaaaaaaaa aa&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;aaaaaaaaaaaaaaaaaaaaa&lt;/p&gt;&lt;p&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/p&gt;&lt;p&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="855" y="139" width="326" height="161" as="geometry" />
-        </mxCell>
-        <mxCell id="QkPWphrjwWYuau1M03Vn-54" value="J&#39;ai comptis !" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fontColor=#ffdd00;strokeColor=#eeff00;fillColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="1047" y="339" width="89" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QkPWphrjwWYuau1M03Vn-56" value="Ferme la boite de dialogue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1078" y="458" width="120" height="60" as="geometry" />
@@ -311,6 +308,9 @@
         </mxCell>
         <mxCell id="fwitRlPQpOq8BcwiXoyR-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pointer;rotation=-105;" vertex="1" parent="1">
           <mxGeometry x="-113" y="766" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fwitRlPQpOq8BcwiXoyR-9" value="&lt;font style=&quot;color: rgb(255, 255, 0); font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;J&#39;ai compris !&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF1111;gradientColor=#FEAAAA;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="335" width="134" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
