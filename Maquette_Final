@@ -153,7 +153,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Maquette 2" id="p0IenRbpLlspK19AUfvY">
-    <mxGraphModel dx="4385" dy="2730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3407" dy="2204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -468,8 +468,8 @@
             <mxPoint x="4444.5" y="-265.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m9tYFwfesri4IwrnQs89-7" value="Change de scène" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="4462" y="-285.5" width="158" height="30" as="geometry" />
+        <mxCell id="m9tYFwfesri4IwrnQs89-7" value="Change de scène ou ouverture de boite de dialgue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="4462" y="-285.5" width="228" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m9tYFwfesri4IwrnQs89-10" value="Boite de Dialog" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4482.5" y="-209.5" width="129" height="30" as="geometry" />
@@ -896,20 +896,6 @@
         </mxCell>
         <mxCell id="6NRpGFYziOR6iTamGluy-9" value="Zone cochable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4904" y="-337" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kHCi-7aTIuOXFsHAtzCy-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=#00ff04;fillColor=#2bff00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5000.500000000001" y="211.25" as="sourcePoint" />
-            <mxPoint x="5374" y="298" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="5260" y="325" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kHCi-7aTIuOXFsHAtzCy-2" value="ouverture boite du dialog" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kHCi-7aTIuOXFsHAtzCy-1" vertex="1" connectable="0">
-          <mxGeometry x="0.1391" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="kHCi-7aTIuOXFsHAtzCy-6" value="Ferme le jeu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4838.73" y="550" width="120" height="30" as="geometry" />
