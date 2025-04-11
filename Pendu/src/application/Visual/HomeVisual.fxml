@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.ColumnConstraints?>
@@ -14,11 +15,23 @@
 
 <HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="485.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <ImageView fitHeight="486.0" fitWidth="441.0" pickOnBounds="true" preserveRatio="true">
-         <image>
-            <Image url="@../Image/Capture%20d'écran%202025-03-16%20150936.png" />
-         </image>
-      </ImageView>
+      <StackPane prefHeight="150.0" prefWidth="200.0">
+         <children>
+            <ImageView fitHeight="486.0" fitWidth="441.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Image/Capture%20d'écran%202025-03-16%20150936.png" />
+               </image>
+            </ImageView>
+            <Text fill="#ffdd00" strokeType="OUTSIDE" strokeWidth="0.0" text="Le Pendu">
+               <font>
+                  <Font name="Forte" size="58.0" />
+               </font>
+               <StackPane.margin>
+                  <Insets left="40.0" top="-425.0" />
+               </StackPane.margin>
+            </Text>
+         </children>
+      </StackPane>
       <StackPane prefHeight="485.0" prefWidth="259.0">
          <children>
             <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#656565" height="487.0" stroke="BLACK" strokeType="INSIDE" width="261.0" />
@@ -37,11 +50,11 @@
                   <StackPane prefHeight="163.0" prefWidth="138.0" GridPane.columnSpan="2147483647">
                      <children>
                         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="66.0" stroke="BLACK" strokeType="INSIDE" width="236.0" />
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Commencer le jeu">
+                        <Label text="Commencer le Jeu">
                            <font>
-                              <Font name="Linux Biolinum G Regular" size="24.0" />
+                              <Font size="24.0" />
                            </font>
-                        </Text>
+                        </Label>
                      </children>
                   </StackPane>
                   <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="1">
@@ -51,14 +64,14 @@
                               <Insets left="15.0" top="-50.0" />
                            </StackPane.margin>
                         </Rectangle>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Options">
+                        <Label text="Options">
                            <StackPane.margin>
                               <Insets top="-50.0" />
                            </StackPane.margin>
                            <font>
                               <Font size="24.0" />
                            </font>
-                        </Text>
+                        </Label>
                      </children>
                   </StackPane>
                   <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="2">
@@ -68,14 +81,14 @@
                               <Insets left="15.0" top="-50.0" />
                            </StackPane.margin>
                         </Rectangle>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Aide">
+                        <Label text="Aide">
                            <StackPane.margin>
                               <Insets top="-50.0" />
                            </StackPane.margin>
                            <font>
                               <Font size="24.0" />
                            </font>
-                        </Text>
+                        </Label>
                      </children>
                   </StackPane>
                   <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="3">
@@ -85,30 +98,39 @@
                               <Insets left="15.0" top="-50.0" />
                            </StackPane.margin>
                         </Rectangle>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Quitter">
+                        <Label text="Quitter">
                            <StackPane.margin>
                               <Insets top="-50.0" />
                            </StackPane.margin>
                            <font>
                               <Font size="24.0" />
                            </font>
-                        </Text>
+                        </Label>
                      </children>
                   </StackPane>
-                  <ImageView fitHeight="70.0" fitWidth="66.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                  <ImageView fitHeight="54.0" fitWidth="54.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1">
                      <GridPane.margin>
                         <Insets left="30.0" top="-50.0" />
                      </GridPane.margin>
+                     <image>
+                        <Image url="@../Image/Settings_logo.png" />
+                     </image>
                   </ImageView>
-                  <ImageView fitHeight="70.0" fitWidth="66.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                  <ImageView fitHeight="54.0" fitWidth="54.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2">
                      <GridPane.margin>
                         <Insets left="30.0" top="-50.0" />
                      </GridPane.margin>
+                     <image>
+                        <Image url="@../Image/support_logo.png" />
+                     </image>
                   </ImageView>
-                  <ImageView fitHeight="77.0" fitWidth="66.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                  <ImageView fitHeight="54.0" fitWidth="54.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="3">
                      <GridPane.margin>
                         <Insets left="30.0" top="-50.0" />
                      </GridPane.margin>
+                     <image>
+                        <Image url="@../Image/close_logo.png" />
+                     </image>
                   </ImageView>
                </children>
             </GridPane>
