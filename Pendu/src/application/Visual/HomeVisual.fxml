@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.Insets?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.ColumnConstraints?>
@@ -30,6 +31,7 @@
                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
                   <StackPane prefHeight="163.0" prefWidth="138.0" GridPane.columnSpan="2147483647">
@@ -42,6 +44,72 @@
                         </Text>
                      </children>
                   </StackPane>
+                  <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="1">
+                     <children>
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="66.0" stroke="BLACK" strokeType="INSIDE" width="143.0">
+                           <StackPane.margin>
+                              <Insets left="15.0" top="-50.0" />
+                           </StackPane.margin>
+                        </Rectangle>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Options">
+                           <StackPane.margin>
+                              <Insets top="-50.0" />
+                           </StackPane.margin>
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </StackPane>
+                  <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="2">
+                     <children>
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="66.0" stroke="BLACK" strokeType="INSIDE" width="143.0">
+                           <StackPane.margin>
+                              <Insets left="15.0" top="-50.0" />
+                           </StackPane.margin>
+                        </Rectangle>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Aide">
+                           <StackPane.margin>
+                              <Insets top="-50.0" />
+                           </StackPane.margin>
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </StackPane>
+                  <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="3">
+                     <children>
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="66.0" stroke="BLACK" strokeType="INSIDE" width="143.0">
+                           <StackPane.margin>
+                              <Insets left="15.0" top="-50.0" />
+                           </StackPane.margin>
+                        </Rectangle>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Quitter">
+                           <StackPane.margin>
+                              <Insets top="-50.0" />
+                           </StackPane.margin>
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </StackPane>
+                  <ImageView fitHeight="70.0" fitWidth="66.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                     <GridPane.margin>
+                        <Insets left="30.0" top="-50.0" />
+                     </GridPane.margin>
+                  </ImageView>
+                  <ImageView fitHeight="70.0" fitWidth="66.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                     <GridPane.margin>
+                        <Insets left="30.0" top="-50.0" />
+                     </GridPane.margin>
+                  </ImageView>
+                  <ImageView fitHeight="77.0" fitWidth="66.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                     <GridPane.margin>
+                        <Insets left="30.0" top="-50.0" />
+                     </GridPane.margin>
+                  </ImageView>
                </children>
             </GridPane>
          </children>
